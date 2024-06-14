@@ -13,6 +13,6 @@ Este proyecto es un clon de la interfez de inicio de Pinterest, creado puramente
 + **Google Icons:** Para iconos personalizados.
 
 ### Vista Previa del Proyecto
-
+![Demo](/imagenes/vistaprevia.png)
 ### Contacto
 Goretty Matus: [Mi Correo electrónico.](gmatus2602@gmail.com)
