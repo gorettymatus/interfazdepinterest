@@ -15,4 +15,4 @@ Este proyecto es un clon de la interfez de inicio de Pinterest, creado puramente
 ### Vista Previa del Proyecto
 
 ### Contacto
-Nancy Salazar: [Mi Correo electrónico.](gmatus2602@gmail.com)
+Goretty Matus: [Mi Correo electrónico.](gmatus2602@gmail.com)
